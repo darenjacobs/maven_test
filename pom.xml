@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.djtesting.maven</groupId>
-	<artifactId>maven-develop-test</artifactId>
+	<artifactId>maven-test</artifactId>
 
 	<version>1.0.1-SNAPSHOT</version>
 
